@@ -1,0 +1,39 @@
+/*********************************
+               RESPONSIVE
+**********************************/
+/*  Small devices (landscape phones, 576px and up) */
+@media (max-width: 991px){  
+    
+    .click{
+        display: none;
+    }
+    #affichagePanierResponsive{
+        display: block !important;
+    }
+    .color-a4c4b8{
+        background-color: #a4c4b8;
+        color: white;
+    }
+    .photo{
+        display:none;
+    }
+    
+
+}
+    
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 767.1px) and (max-width: 1199px) {     
+    
+    
+}    
+    
+
+/* Large devices (desktops, 1199.1px and up) */
+@media (min-width: 1199.1px) { 
+
+}
+    
+    
+
+
+
